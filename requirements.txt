@@ -1,0 +1,5 @@
+streamlit
+feedparser
+sentence-transformers
+transformers
+torch
